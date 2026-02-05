@@ -23,6 +23,7 @@ __pycache__/
 *.swp
 *.swo
 .github/
+.cursor/
 
 # Temporary files
 temp/
@@ -37,6 +38,9 @@ Thumbs.db
 dist/
 build/
 *.egg-info/
+
+# data files
+data/
 
 # uv lock file (optional - uncomment if you want to track it)
 # uv.lock
