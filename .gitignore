@@ -42,5 +42,8 @@ build/
 # data files
 data/
 
+#ruff files
+.ruff_cache/
+
 # uv lock file (optional - uncomment if you want to track it)
 # uv.lock
